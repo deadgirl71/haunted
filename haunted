@@ -1,25 +1,25 @@
-var multiConfig = {"THISROOM":"hallowed@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["hall","library","crypt","tower","mirror","dungeon","passage","garden","vault"],"defaultView":"hall"}
+var multiConfig = {"THISROOM":"hallowed@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["entrance","hall","library","crypt","tower","mirror","dungeon","passage","garden","vault"],"defaultView":"hall"}
 
 var roomstuff = {"rooms":{
 
-"entrance":{"rName":"The Entrance","backgroundImage":"https://soi-haunthou.hyperchat.com/entranceback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/entrance.png><br>The Haunted Home<br></center>","roombottom":""},
+"entrance":{"rName":"The Entrance","backgroundImage":"https://soi-haunthou.hyperchat.com/entranceback2.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/entrance.png><br>The Haunted Home<br></center>","roombottom":""},
 
-"hall":{"rName":"The Grand Hall","backgroundImage":"https://soi-haunthou.hyperchat.com/grandhallbackuse.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/grandhalltop.png><br>The Grand Hall<br></center>","roombottom":""},
+"hall":{"rName":"The Grand Hall","backgroundImage":"https://soi-haunthou.hyperchat.com/grandhall1.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/grandhalltop.png><br>The Grand Hall<br></center>","roombottom":""},
 
-"library":{"rName":"The Library of Whispers","backgroundImage":"https://soi-haunthou.hyperchat.com/libraryback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/library.png><br>The Library of Whispers<br></center>","roombottom":""},
+"library":{"rName":"The Library of Whispers","backgroundImage":"https://soi-haunthou.hyperchat.com/libarayback1.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/library.png><br>The Library of Whispers<br></center>","roombottom":""},
 
-"crypt":{"rName":"The Crypt","backgroundImage":"https://soi-haunthou.hyperchat.com/cryptback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/crypt.png><br>The Crypt<br></center>","roombottom":""},
+"crypt":{"rName":"The Crypt","backgroundImage":"https://soi-haunthou.hyperchat.com/cryptback1.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/crypt.png><br>The Crypt<br></center>","roombottom":""},
 
-"tower":{"rName":"The Tower of Tears","backgroundImage":"https://soi-haunthou.hyperchat.com/towerback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/tower.png><br>The Tower of Tears<br></center>","roombottom":""},
+"tower":{"rName":"The Tower of Tears","backgroundImage":"https://soi-haunthou.hyperchat.com/towerbackgrounduse.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/tower.png><br>The Tower of Tears<br></center>","roombottom":""},
 
-"mirror":{"rName":"The Mirror Room","backgroundImage":"https://soi-haunthou.hyperchat.com/mirrorback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/mirror.png><br>The Mirror Room<br></center>","roombottom":""},
+"mirror":{"rName":"The Mirror Room","backgroundImage":"https://soi-haunthou.hyperchat.com/mirrorback2.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/mirror.png><br>The Mirror Room<br></center>","roombottom":""},
 
-"dungeon":{"rName":"The Dungeon","backgroundImage":"https://soi-haunthou.hyperchat.com/dungeonback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/dungeon.png><br>The Dungeon<br></center>","roombottom":""},
+"dungeon":{"rName":"The Dungeon","backgroundImage":"https://soi-haunthou.hyperchat.com/dungeonback1.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/dungeon.png><br>The Dungeon<br></center>","roombottom":""},
 
-"passage":{"rName":"Secret Passages","backgroundImage":"https://soi-haunthou.hyperchat.com/passagesback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/passages.png><br>Secret Passages<br></center>","roombottom":""},
+"passage":{"rName":"Secret Passages","backgroundImage":"https://soi-haunthou.hyperchat.com/passagesback1.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/passages.png><br>Secret Passages<br></center>","roombottom":""},
 
-"garden":{"rName":"Garden of Forgotten Echoes","backgroundImage":"https://soi-haunthou.hyperchat.com/gardenback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/gardentop.png><br>Garden of Forgotten Echoes<br></center>","roombottom":""},
+"garden":{"rName":"Garden of Forgotten Echoes","backgroundImage":"https://soi-haunthou.hyperchat.com/gardenback1.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/gardentop.png><br>Garden of Forgotten Echoes<br></center>","roombottom":""},
 
-"vault":{"rName":"Vault of Shadows","backgroundImage":"https://soi-haunthou.hyperchat.com/vaultback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/vault.png><br>The Vault of Shadows<br></center>","roombottom":""},
+"vault":{"rName":"Vault of Shadows","backgroundImage":"https://soi-haunthou.hyperchat.com/vaultback1.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-haunthou.hyperchat.com/vault.png><br>The Vault of Shadows<br></center>","roombottom":""},
 
 }}
